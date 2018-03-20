@@ -15312,7 +15312,7 @@ exports = module.exports = __webpack_require__(0)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n*{margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}\n*{-webkit-touch-callout: none;}\nul{list-style: none;}\n.clearfix:before, .clearfix:after {display: table;content: \"\";}\n.clearfix:after{ clear: both;}\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n*{margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}\n*{-webkit-touch-callout: none;}\nul{list-style: none;}\n.clearfix:before, .clearfix:after {display: table;content: \"\";}\n.clearfix:after{ clear: both;}\n", ""]);
 
 // exports
 
@@ -15334,6 +15334,7 @@ var _topic2 = _interopRequireDefault(_topic);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+document.body.addEventListener('touchstart', function () {});
 exports.default = {
 	components: {
 		list: _topic2.default
@@ -15469,7 +15470,7 @@ exports.default = {
 				};
 			},
 			"props": ["title", "answer"],
-			template: "<div class=\"topic-item\" :class=\"{curentItem:deleteItem}\" @touchstart.prevent=\"longTime\" @touchend=\"longTap\">\n\t\t\t\t\t<h2>{{title}}</h2>\n\t\t\t\t\t<p>{{answer}}</p>\n\t\t\t\t\t<ul class=\"deleteItemType\" v-show=\"deleteItem\">\n\t\t\t\t\t\t<li @click=\"remveItem\">\u5220\u9664\u8BE5\u5185\u5BB9</li>\t\t\t\t\t\t\n\t\t\t\t\t</ul>\n\t\t\t\t</div>",
+			template: "<div class=\"topic-item\" :class=\"{curentItem:deleteItem}\" @touchstart=\"longTime\" @touchend=\"longTap\">\n\t\t\t\t\t<h2>{{title}}</h2>\n\t\t\t\t\t<p>{{answer}}</p>\n\t\t\t\t\t<ul class=\"deleteItemType\" v-show=\"deleteItem\">\n\t\t\t\t\t\t<li @click=\"remveItem\">\u5220\u9664\u8BE5\u5185\u5BB9</li>\t\t\t\t\t\t\n\t\t\t\t\t</ul>\n\t\t\t\t</div>",
 			methods: {
 				longTime: function longTime() {
 					this.time1 = new Date().getTime();
