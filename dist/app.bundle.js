@@ -15469,7 +15469,7 @@ exports.default = {
 				};
 			},
 			"props": ["title", "answer"],
-			template: "<div class=\"topic-item\" :class=\"{curentItem:deleteItem}\" @touchstart=\"longTime\" @touchend=\"longTap\">\n\t\t\t\t\t<h2>{{title}}</h2>\n\t\t\t\t\t<p>{{answer}}</p>\n\t\t\t\t\t<ul class=\"deleteItemType\" v-show=\"deleteItem\">\n\t\t\t\t\t\t<li @click=\"remveItem\">\u5220\u9664\u8BE5\u5185\u5BB9</li>\t\t\t\t\t\t\n\t\t\t\t\t</ul>\n\t\t\t\t</div>",
+			template: "<div class=\"topic-item\" :class=\"{curentItem:deleteItem}\" @touchstart.prevent=\"longTime\" @touchend=\"longTap\">\n\t\t\t\t\t<h2>{{title}}</h2>\n\t\t\t\t\t<p>{{answer}}</p>\n\t\t\t\t\t<ul class=\"deleteItemType\" v-show=\"deleteItem\">\n\t\t\t\t\t\t<li @click=\"remveItem\">\u5220\u9664\u8BE5\u5185\u5BB9</li>\t\t\t\t\t\t\n\t\t\t\t\t</ul>\n\t\t\t\t</div>",
 			methods: {
 				longTime: function longTime() {
 					this.time1 = new Date().getTime();
