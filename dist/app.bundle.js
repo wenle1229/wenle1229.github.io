@@ -15312,7 +15312,7 @@ exports = module.exports = __webpack_require__(0)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n*{margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}\n*{-webkit-touch-callout: none;}\nul{list-style: none;}\n.clearfix:before, .clearfix:after {display: table;content: \"\";}\n.clearfix:after{ clear: both;}\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n*{margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}\n*{-webkit-touch-callout: none;}\nul{list-style: none;}\n.clearfix:before, .clearfix:after {display: table;content: \"\";}\n.clearfix:after{ clear: both;}\n", ""]);
 
 // exports
 
@@ -15334,9 +15334,6 @@ var _topic2 = _interopRequireDefault(_topic);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-window.ontouchstart = function (e) {
-	e.preventDefault();
-};
 exports.default = {
 	components: {
 		list: _topic2.default
