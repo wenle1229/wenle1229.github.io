@@ -15312,7 +15312,7 @@ exports = module.exports = __webpack_require__(0)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n*{margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}\n*{-webkit-touch-callout: none;}\nul{list-style: none;}\n.clearfix:before, .clearfix:after {display: table;content: \"\";}\n.clearfix:after{ clear: both;}\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n*{margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}\n*{-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;-webkit-touch-callout: none;}\t\nul{list-style: none;}\n.clearfix:before, .clearfix:after {display: table;content: \"\";}\n.clearfix:after{ clear: both;}\n", ""]);
 
 // exports
 
