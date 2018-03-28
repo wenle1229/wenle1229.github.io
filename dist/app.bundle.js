@@ -15312,7 +15312,7 @@ exports = module.exports = __webpack_require__(0)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\r\nheader,footer,.main{position: fixed;width:100%;left:0;}\r\nheader{top:0;height:2.8125rem; line-height:2.8125rem; background:#0767c8;border-bottom: 1px solid #044e97; color:#fff;padding:0 .3125rem; box-sizing: border-box;box-shadow:0 1px 2px rgba(0,0,0,.25), inset 0 1px 0 rgba(255,255,255,.15);\r\nbackground: linear-gradient(to bottom,#086ed5,#055db5);}\r\nfooter{bottom:0;background:#fff;height:2.8125rem; line-height:2.8125rem; border-top:1px solid #ddd;}\r\nfooter ul li{float:left;width:33.33%; text-align: center;}\r\nfooter ul li.curent,footer ul li:hover{font-weight: bold;}\r\n.main{top:2.8125rem;bottom:2.8125rem; overflow: scroll; overflow-x: hidden;}\r\nheader h1{font-size:1.125rem;padding-left:.3125rem; font-weight: normal;display: inline-block;width:100%;}\r\n.icon-downarrow{position:relative;}\r\n.icon-downarrow:after{display:inline-block; position: relative;content:\"\";width:10px;height:10px;border-left:1px solid #fff;border-bottom:1px solid #fff;-webkit-transform:rotate(-45deg);top:-3px;left:8px;}\t\r\n.fenzu{background: #fff;border-bottom:5px solid #ddd;padding-bottom:10px;position: absolute;top: 45px;width: 100%; z-index: 3;height:0; overflow: hidden;top:-45px;}\r\n.fenzu ul{border-bottom:1px solid #ddd;}\r\n.fenzu ul li{height:40px; line-height:40px;padding:0 10px;position: relative;width:33.3333%;float:left;text-align:center;box-sizing:border-box;word-break: keep-all; overflow: hidden;}\r\n.fenzu ul li.curent{ color:#259;}\r\n/*.fenzu ul li:after{display:inline-block; position:absolute;content:\"\";width:10px;height:10px;border-left:1px solid #ccc;border-bottom:1px solid #ccc;-webkit-transform:rotate(235deg);top:15px;right:15px;}*/\r\n.rule{text-align: center;padding-top:10px;width:100%;}\r\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\r\nheader,footer,.main{position: fixed;width:100%;left:0;}\r\nheader{z-index:10;top:0;height:2.8125rem; line-height:2.8125rem; background:#0767c8;border-bottom: 1px solid #044e97; color:#fff;padding:0 .3125rem; box-sizing: border-box;box-shadow:0 1px 2px rgba(0,0,0,.25), inset 0 1px 0 rgba(255,255,255,.15);\r\nbackground: linear-gradient(to bottom,#086ed5,#055db5);}\r\nfooter{bottom:0;background:#fff;height:2.8125rem; line-height:2.8125rem; border-top:1px solid #ddd;}\r\nfooter ul li{float:left;width:33.33%; text-align: center;}\r\nfooter ul li.curent,footer ul li:hover{font-weight: bold;}\r\n.main{top:2.8125rem;bottom:2.8125rem; overflow: scroll; overflow-x: hidden;}\r\nheader h1{font-size:1rem;padding-left:.3125rem; font-weight: normal;display: inline-block;width:100%;}\r\nheader h1 .weiti-name{margin:0 auto;}\r\n.icon-downarrow{position:relative;}\r\n.icon-downarrow:after{display:inline-block; position: relative;content:\"\";width:10px;height:10px;border-left:1px solid #fff;border-bottom:1px solid #fff;-webkit-transform:rotate(-45deg);top:-3px;left:8px;}\t\r\n.fenzu,.tagType{background: #fff;border-bottom:5px solid #ddd;padding-bottom:10px;position: absolute;top: 45px;width: 100%; z-index: 3;height:0; overflow: hidden;top:-45px;}\r\n.fenzu ul{border-bottom:1px solid #ddd;}\r\n.fenzu ul li,.tagType2 li{height:40px; line-height:40px;padding:0 10px;position: relative;width:33.3333%;float:left;text-align:center;box-sizing:border-box;word-break: keep-all; overflow: hidden;}\r\n.fenzu ul li.curent,.tagType2 li.curent{ color:#259;}\r\n.fenzu2,.tagType2{top: 45px;height: auto;transition:all 0.5s ease-out;}\r\n/*.fenzu ul li:after{display:inline-block; position:absolute;content:\"\";width:10px;height:10px;border-left:1px solid #ccc;border-bottom:1px solid #ccc;-webkit-transform:rotate(235deg);top:15px;right:15px;}*/\r\n.tagType2{padding-bottom:0;}.tagType2 li{width:100%;border-bottom:1px solid #ddd;text-align: left;}\r\n.rule{text-align: center;padding-top:10px;width:100%;}\r\n", ""]);
 
 // exports
 
@@ -15412,7 +15412,7 @@ exports = module.exports = __webpack_require__(0)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\r\n.main{top:2.8125rem;bottom:2.8125rem; overflow: scroll; overflow-x: hidden;}\r\nheader h1{font-size:1.125rem;padding-left:.3125rem; font-weight: normal;display: inline-block;width:100%;}\t\r\n.top-menu{ float: right; list-style: none;}\r\n.top-menu li{float: left;margin-right:.625rem;}\r\n.queding{font-size:1rem}\r\n.add{font-size: 1.75rem;}\t\r\n.topic-item{position: relative;}\r\n.topic-item,.inputTopic{padding:.625rem;}\r\n.topic-item+.topic-item{border-top:1px solid #ddd}\r\n.topic-item h2{color:#259;font-size:1rem;line-height: 1.7;}\r\n.topic-item p{color:#222;font-size:.9375rem; line-height: 1.7;word-break:break-all; text-align: justify;}\r\n.inputTopic textarea,.inputTopic input{width:100%;display:inline-block; border:0;line-height:38px;font-size:1rem;padding:.3125rem 0; outline: none;}\r\n.inputTopic input{border-bottom: 1px solid #ccc;}\r\n.deleteItemType{position:absolute;box-shadow: 0px 0px 2px #999;background:#fff;left:33%;top:5.5rem;width:34%;font-size:.8rem;text-align: center; z-index:1000; visibility: hidden;}\r\n.topic-item ul li{padding:.625rem;border-bottom:1px solid #eee;}\r\n.deleteItemType2{-webkit-transform:scale(1.5);transform:scale(1.5);top:4.5rem;transition:all 0.1s ease-out;visibility:visible;}\r\n.curentItem{background:#dfdcdb};\r\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\r\n.main{top:2.8125rem;bottom:2.8125rem; overflow: scroll; overflow-x: hidden;}\r\nheader h1{font-size:1.125rem;padding-left:.3125rem; font-weight: normal;display: inline-block;width:100%;}\t\r\n.top-menu{ float: right; list-style: none;}\r\n.top-menu li{float: left;margin-right:.625rem;}\r\n.queding{font-size:1rem}\r\n.add{font-size: 1.75rem;}\t\r\n.topic-item{position: relative;}\r\n.topic-item,.inputTopic{padding:.625rem;}\r\n.topic-item+.topic-item{border-top:1px solid #ddd}\r\n.topic-item h2{color:#259;font-size:1rem;line-height: 1.7;}\r\n.topic-item p{color:#222;font-size:.9375rem; line-height: 1.7;word-break:break-all; text-align: justify;}\r\n.inputTopic textarea,.inputTopic input{border:0;border-bottom: 1px solid #ccc;width:100%;display:inline-block;line-height:38px;font-size:1rem;padding:.3125rem 0; outline: none;}\r\n.deleteItemType{position:absolute;box-shadow: 0px 0px 2px #999;background:#fff;left:33%;top:5.5rem;width:34%;font-size:.6rem;text-align: center; z-index:1000; visibility: hidden;}\r\n.topic-item ul li{padding:.625rem;border-bottom:1px solid #eee;}\r\n.deleteItemType2{-webkit-transform:scale(1.5);transform:scale(1.5);top:4.5rem;transition:all 0.5s ease-out;visibility:visible;}\r\n.writeBiaotiTag{ line-height: 38px;}\r\n.writeBiaotiTag span{float: right; color:#aaa;font-size:.875rem;}\r\n.curentItem{background:#dfdcdb};\r\n", ""]);
 
 // exports
 
@@ -15436,17 +15436,14 @@ exports.default = {
 			addClass: "add",
 			biaoti: "",
 			neirong: "",
-			state: ""
-
+			state: "",
+			tagReadState: false,
+			tagTypeState: false
 		};
 	},
 	methods: {
 		add: function add() {
-			this.addTopic = !this.addTopic;
-			if (this.addName == "+") {
-				this.addName = "完成";
-				this.addClass = "queding";
-			} else {
+			if (this.addName == "完成") {
 				var arr = this.topiclist;
 				if (this.biaoti != "" && this.neirong != "") {
 					if (this.state == "") {
@@ -15460,13 +15457,29 @@ exports.default = {
 				}
 				this.addName = "+";
 				this.addClass = "add";
+				this.addTopic = !this.addTopic;
+			} else {
+				this.tagTypeState = !this.tagTypeState;
 			}
 		},
 		cancelChoice: function cancelChoice(e) {
+			this.tagReadState = false;
+			this.tagTypeState = false;
 			var selfData = this.$children;
 			for (var i = 0; i < selfData.length; i++) {
 				selfData[i].deleteItem = false;
 				selfData[i].$el.children[2].className = "deleteItemType";
+			}
+		},
+		tagRead: function tagRead() {
+			this.tagReadState = !this.tagReadState;
+		},
+		tagAdd: function tagAdd() {
+			this.addTopic = !this.addTopic;
+			if (this.addName == "+") {
+				this.tagTypeState = !this.tagTypeState;
+				this.addName = "完成";
+				this.addClass = "queding";
 			}
 		}
 	},
@@ -15485,7 +15498,7 @@ exports.default = {
 				},
 				longTap: function longTap(e) {
 					this.time2 = new Date().getTime();
-					if (this.time2 - this.time1 > 500) {
+					if (this.time2 - this.time1 > 750) {
 						this.deleteItem = !this.deleteItem;
 						this.$el.lastElementChild.className = "deleteItemType deleteItemType2";
 					}
@@ -15522,7 +15535,7 @@ exports.default = {
 /* 17 */
 /***/ (function(module, exports) {
 
-module.exports = "\n<header>\n\t<h1 class=\"clearfix weiti-downamenu\">\n\t\t<span class=\"weiti-name\">微题<i class=\"icon-downarrow\"></i></span>\n\t\t<ul class=\"top-menu\":class=\"addClass\"><li @click=\"add()\">{{addName}}</li></ul>\n\t</h1>\n</header>\t\n<div class=\"main\">\t\t\n\t<div class=\"topic-list\" @touchstart=\"cancelChoice()\">\n\t\t<tiku v-show=\"addTopic\" v-for=\"item in topiclist\" :title=\"item.title\" :answer=\"item.answer\" :id=\"item.id\"></tiku>\n\t\t<div v-show=\"!addTopic\">\n\t\t\t<form class=\"inputTopic\">\n\t\t\t\t<input type=\"text\"name=\"biaoti\" placeholder=\"标题\" v-model=\"biaoti\"/>\n\t\t\t\t<textarea name=\"neirong\" rows=\"3\"placeholder=\"内容\" cols=\"1\" v-model=\"neirong\"></textarea>\n\t\t\t</form>\n\t\t</div>\n\t</div>\n</div>\t\n<footer>\n\t<ul>\n\t\t<li class=\"curent\">微题</li>\n\t\t<li>个人圈</li>\n\t\t<li>我</li>\n\t</ul>\n</footer>\n<div class=\"fenzu\">\n\t<ul class=\"clearfix\">\n\t\t<li class=\"curent\">首页</li>\n\t\t<li>vue</li>\n\t\t<li>css3</li>\n\t\t<li>es6</li>\t\t\t\t\t\n\t</ul>\t\t\n\t<div class=\"rule\">添加分类</div>\n</div>\n";
+module.exports = "\n<header>\n\t<h1 class=\"clearfix weiti-downamenu\">\n\t\t<span class=\"weiti-name\" @click=\"tagRead()\">全部<i class=\"icon-downarrow\"></i></span>\n\t\t<ul class=\"top-menu\":class=\"addClass\" @click=\"add()\"><li>{{addName}}</li></ul>\n\t</h1>\n</header>\t\n<div class=\"main\">\t\t\n\t<div class=\"topic-list\" @touchstart=\"cancelChoice()\">\n\t\t<tiku v-show=\"addTopic\" v-for=\"item in topiclist\" :title=\"item.title\" :answer=\"item.answer\" :id=\"item.id\"></tiku>\n\t\t<div v-show=\"!addTopic\">\n\t\t\t<form class=\"inputTopic\">\n\t\t\t\t<input type=\"text\"name=\"biaoti\" placeholder=\"请填写问题\" v-model=\"biaoti\"/>\n\t\t\t\t<textarea name=\"neirong\" rows=\"3\"placeholder=\"请填写答案\" cols=\"1\" v-model=\"neirong\"></textarea>\n\t\t\t    <ul class=\"writeBiaotiTag\">\n\t\t\t\t\t<li class=\"clearfix\">分类<span>\n\t\t\t\t\t\t<select name=\"\" id=\"\">\n\t\t\t\t\t\t\t<option value=\"\">默认</option>\n\t\t\t\t\t\t\t<option value=\"\">vue</option>\n\t\t\t\t\t\t\t<option value=\"\">css</option>\n\t\t\t\t\t\t\t<option value=\"\">es6</option>\n\t\t\t\t\t\t</select>\n\t\t\t\t\t</span></li>\n\t\t\t\t</ul>\n\t\t\t</form>\n\t\t</div>\n\t</div>\n</div>\t\n<footer>\n\t<ul>\n\t\t<li class=\"curent\">我的微题</li>\t\t\t\n\t\t<li>个人圈</li>\n\t\t<li>我</li>\n\t</ul>\n</footer>\n<div class=\"fenzu\":class=\"{fenzu2:tagReadState}\">\n\t<ul class=\"clearfix\">\n\t\t<li class=\"curent\">全部</li>\n\t\t<li>vue</li>\n\t\t<li>css3</li>\n\t\t<li>es6</li>\t\t\t\t\t\n\t</ul>\t\t\n\t<div class=\"rule\">编辑分类</div>\n</div>\n<ul class=\"tagType\" :class=\"{tagType2:tagTypeState}\">\n\t<li @click=\"tagAdd()\">微题</li>\n\t<li>标签</li>\n</ul>\n";
 
 /***/ }),
 /* 18 */
